@@ -5,15 +5,16 @@ The user wants to build and run a production version of the vibe-kanban applicat
 1. Building the frontend React application
 2. Building the Rust backend with release optimizations
 3. Running the production build
+git commit after each task that needs to be committed
 
 ## Todo Items
 
 - [x] Install project dependencies (pnpm i)
 - [x] Build frontend production assets
-- [ ] Build backend Rust binary in release mode
-- [ ] Verify build artifacts are created
-- [ ] Run the production version
-- [ ] Test that the application starts correctly
+- [x] Build backend Rust binary in release mode
+- [x] Verify build artifacts are created
+- [x] Run the production version
+- [x] Test that the application starts correctly
 
 ## Notes
 - The frontend build completed successfully (870KB bundle)
