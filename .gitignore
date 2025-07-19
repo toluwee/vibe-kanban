@@ -41,6 +41,12 @@ Thumbs.db
 *.log
 logs/
 
+# Claude AI assistant files
+.claude/
+
+# Generated documentation
+docs/
+
 # Runtime data
 pids
 *.pid

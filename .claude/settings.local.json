@@ -12,7 +12,9 @@
       "Bash(cargo run:*)",
       "Bash(ls:*)",
       "Bash(npm:*)",
-      "Bash(pnpm:*)"
+      "Bash(pnpm:*)",
+      "Bash(cargo build:*)",
+      "Bash(find:*)"
     ],
     "deny": []
   }
